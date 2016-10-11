@@ -1,6 +1,6 @@
-# Politechnika Wrocławska: BSiI
+# Politechnika Wrocławska: WBA
 
-Bezpieczeństwo Sieciowe i Internetowe - notatki z wykładu i laboratoriów
+Wytwarzanie bezpiecznych aplikacji - notatki z wykładu i laboratoriów na Politechnice Wrocławskiej
 
 ## Licencja
 
